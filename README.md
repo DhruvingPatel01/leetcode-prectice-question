@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0404-sum-of-left-leaves) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0404-sum-of-left-leaves) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0404-sum-of-left-leaves) |
