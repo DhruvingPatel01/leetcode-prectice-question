@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0061-rotate-list) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
