@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0145-binary-tree-postorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
