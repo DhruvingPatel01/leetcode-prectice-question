@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0067-add-binary) |
+| [0551-student-attendance-record-i](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0551-student-attendance-record-i) |
 ## Stack
 |  |
 | ------- |
