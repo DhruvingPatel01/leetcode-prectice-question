@@ -271,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/2487-remove-nodes-from-linked-list) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
