@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DhruvingPatel01/leetcode-practice-question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/DhruvingPatel01/leetcode-prectice-question/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
